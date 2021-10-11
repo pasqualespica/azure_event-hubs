@@ -1,0 +1,22 @@
+{
+  "name": "azure_event-hubs",
+  "version": "1.0.0",
+  "description": "test az event hub",
+  "main": "index.js",
+  "scripts": {
+    "test": "node send.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pasqualespica/azure_event-hubs.git"
+  },
+  "author": "pasquale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pasqualespica/azure_event-hubs/issues"
+  },
+  "homepage": "https://github.com/pasqualespica/azure_event-hubs#readme",
+  "dependencies": {
+    "@azure/event-hubs": "^5.6.0"
+  }
+}
